@@ -1,4 +1,4 @@
-# Sales Forecasting for Steel Manufacturing
+# **Steel Industry Sales Forecasting: An Ensemble Learning Approach**
 
 ## Overview
 This repository implements an ensemble-based regression pipeline to forecast quarterly sales for a B2B steel manufacturer. The system integrates domain-specific financial metrics and macroeconomic indicators to generate robust, data-driven predictions.
